@@ -1,3 +1,21 @@
+# Clone da Página Inicial da Netflix.
+
+<p align='center'>
+  Desenvolvido utilizando ReactJS e feito deploy usando gh-pages <a href="https://filiperochs.github.io/netflixclone">aqui</a>
+</p>
+
+<h2 align="center"><em>Tela Inicial</em></h2>
+
+<p align='center'>
+  <img src="https://i.imgur.com/mCs71JT.gif" alt="Netlfix Home page loading" />
+</p>
+
+<h2 align="center"><em>Landing Page</em></h2>
+
+<p align='center'>
+  <img src="https://i.imgur.com/iUF7Sx8.gif" alt="Netlfix Home page loading" />
+</p>
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
